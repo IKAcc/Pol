@@ -1,5 +1,5 @@
 # Pol
-![](http://ikacc.ir/github-assets/pol-header-v10.png)
+[![](http://ikacc.ir/github-assets/pol-header-v1.0.png)](https://github.com/IKAcc/Pol)
 
 Pol (Farsi: پل, "Bridge") is a new way for your audience to share contents of your site. You - as a Content Manager (CM) - point out to the most important part of your content, then Pol will transform it to a shareable link using javaScript and CSS so anyone could share it on your targeted social network.
 
