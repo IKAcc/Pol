@@ -1,0 +1,22 @@
+/*
+	Pol
+	Created by @JavidIzadfar and @setarekarimi at IKAcc
+	Last edit on June 11, 2016
+*/
+
+a[data-pol-media]{
+  outline: none;
+  color: inherit;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease-out;
+     -moz-transition: all 0.2s ease-out;
+       -o-transition: all 0.2s ease-out;
+          transition: all 0.2s ease-out;}
+
+a[data-pol-media="twitter"]:hover{
+  background-color: rgba(85, 172, 238, .1);
+}
+
+a[data-pol-media="telegram"]:hover{
+  background-color: rgba(0, 136, 204, .1);
+}
